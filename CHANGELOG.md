@@ -1,5 +1,16 @@
 # Changelog
 
+## [2025.7.2](https://github.com/jdx/mise/compare/v2025.7.1..v2025.7.2) - 2025-07-07
+
+### 🚀 Features
+
+- **(registry)** add zizmor by [@risu729](https://github.com/risu729) in [#5519](https://github.com/jdx/mise/pull/5519)
+
+### 🐛 Bug Fixes
+
+- **(registry)** use aqua for numbat, gokey, golines by [@risu729](https://github.com/risu729) in [#5518](https://github.com/jdx/mise/pull/5518)
+- `self-update` on MITM firewall (attempt #2) by [@joehorsnell](https://github.com/joehorsnell) in [#5459](https://github.com/jdx/mise/pull/5459)
+
 ## [2025.7.1](https://github.com/jdx/mise/compare/v2025.7.0..v2025.7.1) - 2025-07-06
 
 ### 🚀 Features
